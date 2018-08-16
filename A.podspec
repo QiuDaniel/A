@@ -95,9 +95,6 @@ Pod::Spec.new do |s|
   # s.exclude_files = "Classes/Exclude"
 
   # s.public_header_files = "Classes/**/*.h"
-  s.subspec 'Targets' do |subspec|
-    subspec.source_files = "A/A/Targets/*.{h,m}"
-  end
 
   # ――― Resources ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
