@@ -91,12 +91,12 @@ Pod::Spec.new do |s|
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = ["A", "A/A/**/*.{h,m}"]
+  s.source_files  = "A/A/**/*.{h,m}"
   # s.exclude_files = "Classes/Exclude"
 
   # s.public_header_files = "Classes/**/*.h"
   s.subspec 'Targets' do |subspec|
-    subspec.source_files = "A/A/A/Targets/*.{h,m}"
+    subspec.source_files = "A/A/Targets/*.{h,m}"
   end
 
   # ――― Resources ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
