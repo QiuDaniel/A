@@ -72,7 +72,6 @@
 			isa = PBXGroup;
 			children = (
 				658ADA16212545130044A802 /* A */,
-				658ADA122125449F0044A802 /* Targets */,
 				658AD9D621252A3B0044A802 /* AppDelegate.h */,
 				658AD9D721252A3B0044A802 /* AppDelegate.m */,
 				658AD9D921252A3B0044A802 /* ViewController.h */,
@@ -98,6 +97,7 @@
 		658ADA16212545130044A802 /* A */ = {
 			isa = PBXGroup;
 			children = (
+				658ADA122125449F0044A802 /* Targets */,
 				658ADA18212545130044A802 /* AViewController.h */,
 				658ADA17212545130044A802 /* AViewController.m */,
 			);
