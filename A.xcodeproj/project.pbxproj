@@ -97,9 +97,9 @@
 		658ADA16212545130044A802 /* A */ = {
 			isa = PBXGroup;
 			children = (
-				658ADA122125449F0044A802 /* Targets */,
 				658ADA18212545130044A802 /* AViewController.h */,
 				658ADA17212545130044A802 /* AViewController.m */,
+				658ADA122125449F0044A802 /* Targets */,
 			);
 			path = A;
 			sourceTree = "<group>";
